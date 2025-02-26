@@ -5,9 +5,7 @@
 - 💼 Работаю в компании [**ИЦ Ай-Теко**](https://iteco-inno.ru//) в роли QA Engineer
 - 💻 Ниже можете увидеть мои проекты по автоматизации
 
-### Мои Контакты:
 
-+  Email - shostak.serzh@list.ru
 
 
 
@@ -34,3 +32,7 @@
 ### Мои проекты 🎓
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SSR164&repo=ParaBankTest&theme=blueberry)](https://github.com/SSR164/ParaBankTest)
+
+### Мои Контакты:
+
++  Email - shostak.serzh@list.ru
