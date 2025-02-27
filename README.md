@@ -31,7 +31,7 @@
 
 ### Мои проекты 🎓
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SSR164&repo=ParaBankTest&theme=blueberry)](https://github.com/SSR164/ParaBankTest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SSR164&repo=ParaBankTest&theme=blueberry)](https://github.com/SSR164/ParaBankTest/tree/main)
 
 ### Мои Контакты:
 
